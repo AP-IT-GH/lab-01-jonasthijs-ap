@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9d547f64be2fdd74ea6c9f131253e173
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maze: {fileID: 1131103942983370927, guid: 095b03e63ca2bac47ac680953f1d316c, type: 3}
+  - closedMaterial: {fileID: 2100000, guid: a13c1bcee753dca4fbfa4db790060da8, type: 2}
+  - openMaterial: {fileID: 2100000, guid: fdd31e0a037941048bfb0a69033ca609, type: 2}
+  - start: {fileID: 4884680034018271794, guid: 8eff1c0ee66d3e44892c66a1099e1f19, type: 3}
+  - end: {fileID: 8227873081050787004, guid: b0fcf9f91d66d324fb95dfc41bb6b270, type: 3}
+  - pathP: {fileID: 4872082831671335508, guid: 6ca4b740024d3f147abb3b6cb80e6d00, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
